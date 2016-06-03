@@ -11,8 +11,8 @@ In order to run these samples, you first need to [install .NET Core](http://dotn
 	* `dotnet run`
 * Compile and run using the following commands
 	* `dotnet restore`
-	* `dotnet compile`
-	* `./bin/Debug/[framework]/[binary name]`
+	* `dotnet build`
+	* `dotnet bin/Debug/[framework]/[binary name]`
 
 ## Samples list
 
